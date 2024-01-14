@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86ff391e.css",
+    "main.js": "/static/js/main.bff7c662.js",
+    "static/js/787.fa0978f9.chunk.js": "/static/js/787.fa0978f9.chunk.js",
+    "static/media/cajas.png": "/static/media/cajas.a4d66ce5b857561cd4e2.png",
+    "static/media/apilador-semi-electrico.png": "/static/media/apilador-semi-electrico.2974f9e5a1735048fb1b.png",
+    "static/media/fondo.jpg": "/static/media/fondo.c7012552a405c070b2a2.jpg",
+    "static/media/mantenimiento-patines.jpg": "/static/media/mantenimiento-patines.639887451ca109be9d2b.jpg",
+    "static/media/mantenimiento-montacargas.jpg": "/static/media/mantenimiento-montacargas.49b2a5a7bf8a6a592bfa.jpg",
+    "static/media/patin-hidraulico.jpg": "/static/media/patin-hidraulico.df3375efb116bb23a9b1.jpg",
+    "static/media/patin-para-rollos.jpg": "/static/media/patin-para-rollos.caecac4970123772597d.jpg",
+    "static/media/patin-todo-terreno.jpg": "/static/media/patin-todo-terreno.01c7520cb6f5255c11a0.jpg",
+    "static/media/patin-hidraulico-de-tijera.jpg": "/static/media/patin-hidraulico-de-tijera.61eaf5d244a92dc42c8e.jpg",
+    "static/media/logo.png": "/static/media/logo.06acdbd0b01ae0d25c19.png",
+    "static/media/patin-electrico.jpg": "/static/media/patin-electrico.69a80d1e85a124f1cc53.jpg",
+    "static/media/patin-hidraulico-con-bascula.jpg": "/static/media/patin-hidraulico-con-bascula.086f69dd56efc82ae72a.jpg",
+    "static/media/apilador-hidraulico-manual.jpg": "/static/media/apilador-hidraulico-manual.76ccaa55b31cf1a6f1de.jpg",
+    "static/media/mesa-hidraulica-de-trabajo.jpg": "/static/media/mesa-hidraulica-de-trabajo.61206a45bab7e65d8126.jpg",
+    "index.html": "/index.html",
+    "main.86ff391e.css.map": "/static/css/main.86ff391e.css.map",
+    "main.bff7c662.js.map": "/static/js/main.bff7c662.js.map",
+    "787.fa0978f9.chunk.js.map": "/static/js/787.fa0978f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ff391e.css",
+    "static/js/main.bff7c662.js"
+  ]
+}
